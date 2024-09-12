@@ -29,10 +29,10 @@ cat_code_definition = { 10 : 'Livres',
 list_similitudes = [[10, 2705, 2403, 2280],         # Livres, Magazines
                     [40, 50, 60, 1140, 1160, 1180, 1280, 1281, 1300, 1302, 2462, 2905], #Jeux, jouets
                     [1560, 1920, 2060, 2522],       #Equipements intérieurs : mobiliers, déco, accessoires déco
-                    [2583, 2582, 2585],             #Equipements extérieurs & bricolages
+                    [2583, 2582, 2585, 2220],             #Brico, Jardin Animalerie
                     [1320, 1301],                   # Equipements bébés
-                    [1940],                         # Nourritures + exceptions...
-                    [2220]]                         # Equipements animaux
+                    [1940]]                         # Nourritures + exceptions...
+                    
 
 
 #print(len(cat_code_definition.keys()))
