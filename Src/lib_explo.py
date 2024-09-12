@@ -46,3 +46,4 @@ def get_size_image(product_id, image_id, type):
         return [0,0]
     return [img.shape[0], img.shape[1]]
 
+
